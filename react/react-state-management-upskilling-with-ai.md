@@ -6,6 +6,9 @@ State management is one of the most critical yet misunderstood aspects of modern
 
 This post offers a **practical, battle-tested approach to state management**, focusing on modular design, real-world use cases, and modern tools like Redux Toolkit, Context API, and custom hooks.
 
+### 📝 Disclaimer  
+> **This content was generated with the assistance of AI. Please conduct your own due diligence before applying any information presented here.**
+
 ---
 
 ## 🧩 Step 1: Classify Your State
@@ -154,7 +157,7 @@ This pattern eliminates circular imports and keeps state ownership clear and iso
 
 ## 🗂 Recommended Folder Structure for Feature-Level State Management
 
-To support clean state architecture on a per-page basis, you can adopt a **feature-based folder structure**. This ensures separation of logic, presentation, and side effects within a page module.
+To support clean state architecture on a per-page basis, you can adopt a **feature-based folder structure**. This ensures separation of logic and presentation within a page module.
 
 Here’s how you might structure a `HomePage` feature:
 
@@ -244,6 +247,3 @@ With the right classification and tooling, your state management system becomes 
 
 📚 *This blog post is part of the **Upskilling With AI** series — a curated journey into designing better frontend systems using modern tools and AI-enhanced thinking.*
 
----
-
-Would you like this exported as a Markdown file, Notion page, or formatted for publishing on Dev.to or Hashnode?
