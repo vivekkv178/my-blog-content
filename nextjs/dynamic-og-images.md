@@ -8,6 +8,9 @@ In this post, I’ll share how I:
 * Cached blog metadata using React's built-in **`cache`** utility
 * Set up dynamic Open Graph tags for each blog post in Next.js
 
+### 📝 Disclaimer  
+> **This content was generated with the assistance of AI. Please conduct your own due diligence before applying any information presented here.**
+
 ---
 
 ### ✅ The Goal
