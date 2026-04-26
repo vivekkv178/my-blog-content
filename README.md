@@ -18,11 +18,11 @@ A hands-on guide to building scalable, maintainable state architecture in React 
 - <a href="https://my-blog-vivekkv.vercel.app/post/nextjs-dynamic-og-images" target="_blank">Dynamic Open Graph Images in Next.js</a>  
 Learn how I implemented dynamic Open Graph images for my blog using metadata generation, cached data fetching — efficient, SEO-friendly, and seamless.
 
+- <a href="https://my-blog-vivekkv.vercel.app/post/nextjs-custom-starter" target="_blank">Build and Use Your Own Next.js Starter Kit via npx</a> 
+Tired of setting up the same project structure again and again? This guide walks you through creating a custom React starter kit and installing it anywhere using `npx`.
 
 ## 🚧 Upcoming Posts
 
-> Stay tuned for these upcoming articles!
+> Stay tuned for the upcoming articles!
 
-- ⚡ **Build and Use Your Own Next.js Starter Kit via npx**  
-  Tired of setting up the same project structure again and again? This guide walks you through creating a custom React starter kit and installing it anywhere using `npx`.
 
