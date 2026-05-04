@@ -1,4 +1,4 @@
-# A Beginner's Guide to NPV & Discounting
+# NPV & Discounting Explained Without the Jargon
 
 *The one financial concept that explains how stocks, startups, and investments are really valued.*
 
