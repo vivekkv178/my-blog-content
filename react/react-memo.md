@@ -297,7 +297,7 @@ setUser(prev => ({ ...prev, name: "Banana" }));
 
 This gives React a new reference, which correctly triggers a re-render.
 
-> If you want to understand exactly why mutation breaks React and how references work under the hood, check out my other post — [Why Doesn't My React Screen Update? The Truth About State, Mutation, and Re-renders](#).
+> If you want to understand exactly why mutation breaks React and how references work under the hood, check out my other post — [Why Doesn't My React Screen Update? The Truth About State, Mutation, and Re-renders](https://my-blog-vivekkv.vercel.app/post/react-state-mutation).
 
 ## 🔬 Putting It All Together: A Live Example
 
